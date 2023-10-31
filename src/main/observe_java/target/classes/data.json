@@ -1,0 +1,12 @@
+{
+  "players": [
+    {
+      "username": "玩家1",
+      "favoriteTags": ["动作", "冒险"]
+    },
+    {
+      "username": "玩家2",
+      "favoriteTags": ["策略", "RPG"]
+    }
+  ]
+}
